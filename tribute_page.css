@@ -1,0 +1,43 @@
+body{
+    background-color:lightgrey;
+    font-family: 'Open Sans', sans-serif;
+  }
+ h1{
+   text-align: center;  text-transform:uppercase;
+ }
+  #subtitle{
+ font-style:italic;
+ margin-top: 0;
+     text-align: center;
+     font-size: 18px;
+   color: rgb(83, 65, 40);
+  }
+  img{
+    display:block;
+   
+  }
+  #image{
+    max-width:100%;
+    height:auto;
+   display:block;  
+    margin-left:auto;
+     margin-right:auto; 
+     align-items: center;
+    }
+     #image-caption {
+     font-style:italic;
+     margin-top: 0;
+     text-align: center;
+    }
+    #headline{
+     line-height: 2;
+     background-color: grey;
+     text-align: center;
+    }
+  p{
+     font-size:16px;
+    }
+    #tribute-link{
+     color: black;
+     font-style: oblique;
+    }
